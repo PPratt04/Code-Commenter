@@ -1,6 +1,6 @@
-# Code Commenter
+# Python Code Commenter
 
-**Code Commenter** is a Python 3-based tool that automatically generates descriptive comments for Python code. It is designed to assist developers, students, and educators by improving code readability and documentation with minimal manual effort.
+**Python Code Commenter** is a Python 3-based tool that automatically generates descriptive comments for Python code. It is designed to assist developers, students, and educators by improving code readability and documentation with minimal manual effort.
 
 ## Features
 
